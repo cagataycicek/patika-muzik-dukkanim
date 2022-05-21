@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    margin: 10px;
+}
+
+h2{
+    color: purple;
+}
+
+h3{
+    color: yellowgreen;
+}
+
+ul{
+    text-align: center;
+}
+
+ol{
+    list-style-type: upper-roman;
+    text-align: center;
+}
+img{
+    height: 300px;
+}
